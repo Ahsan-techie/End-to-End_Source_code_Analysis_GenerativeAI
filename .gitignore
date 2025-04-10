@@ -2,11 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+research/chroma_db/*
 
 # C extensions
 *.so
 db/*
-research/chroma_db/*
+
 
 # Distribution / packaging
 .Python

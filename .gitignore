@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 db/*
-research/chromadb/*
+research/chroma_db/*
 
 # Distribution / packaging
 .Python
